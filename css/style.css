@@ -156,7 +156,7 @@
   }
   
   .social__link--vk {
-    background-image: url("../img/vk.svg");
+    background-image: url("../img/wk.svg");
   }
   
   .social__link--facebook {
@@ -168,11 +168,11 @@
   }
   
   .social__link--twitch {
-    background-image: url("../img/twitch.svg");
+    background-image: url("../img/twich.svg");
   }
   
   .social__link--instagram {
-    background-image: url("../img/instagram.svg");
+    background-image: url("../img/insta.svg");
   }
   
   .hero {
